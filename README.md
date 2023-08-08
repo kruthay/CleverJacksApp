@@ -1,4 +1,5 @@
-# Automatic App Landing Page
+# This Repo is Forked.
+
 **Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
 
 Designed for GitHub Pages for super easy set up. 
