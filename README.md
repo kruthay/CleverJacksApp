@@ -1,4 +1,4 @@
-# This Repo is Forked.
+# This is a forked repo
 
 **find original at https://github.com/emilbaehr/automatic-app-landing-page.**
 
