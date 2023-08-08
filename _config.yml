@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Game Center
     description                           : Enjoy easy sign-in with Game Center and play with friends or get matched automatically for a quick match.
-    fontawesome_icon_name                 : apple
+    fontawesome_icon_name                 : play
 
   - title                                 : Easy to learn
     description                           : New to the game? Check out the Rules page for a clear guide. Clever Jacks features a game board, unique player coins, and player cards. 
