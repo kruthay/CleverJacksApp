@@ -46,31 +46,28 @@ features                                  :
 
   - title                                 : Game Center
     description                           : Enjoy easy sign-in with Game Center and play with friends or get matched automatically for a quick match.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : apple
 
   - title                                 : Easy to learn
     description                           : New to the game? Check out the Rules page for a clear guide. Clever Jacks features a game board, unique player coins, and player cards. 
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : book
 
   - title                                 : Strategy
     description                           : Strategically place your coin on empty cards to outmaneuver your opponents..
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : chess-queen
   
   - title                                 : Super Powers
     description                           : Experience the unique abilities of the Jacks – One-Eyed Jacks eliminate opponent coins, while Two-Eyed Jacks add coins.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Free
     description                           : Best of all, Clever Jacks is free and ad-free. Dive into strategic fun with Clever Jacks now!
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : heart
 
   - title                                 : Indefinite Time
     description                           : You can take indefinite time to make your turn.!
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : clock
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
