@@ -10,10 +10,10 @@ playstore_link                            :                                     
 presskit_download_link                    :                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon                                  : assets/SequenceCardsLogo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Clever Jacks                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : the iOS sequence board game app that guarantees hours of engaging entertainment!
+app_description                           : A Multiplayer Board-Cards game.!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -37,39 +37,39 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Clever Jacks
-    description                           : the iOS sequence board game app that guarantees hours of engaging entertainment!
+    description                           : The Multiplayer Board-Cards game that guarantees hours of engaging entertainment!
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Game Modes
+    description                           : Challenge your friends in 2-player or 3-player modes, or take on the computer in a head-to-head battle.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Game Center
+    description                           : Enjoy easy sign-in with Game Center and play with friends or get matched automatically for a quick match.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Easy to learn
+    description                           : New to the game? Check out the Rules page for a clear guide. Clever Jacks features a game board, unique player coins, and player cards. 
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Strategy
+    description                           : Strategically place your coin on empty cards to outmaneuver your opponents..
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Super Powers
+    description                           : Experience the unique abilities of the Jacks – One-Eyed Jacks eliminate opponent coins, while Two-Eyed Jacks add coins.
     fontawesome_icon_name                 : star
 
   - title                                 : Smart App Banner
     description                           : Display a smart app banner on iOS devices.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Free
+    description                           : Best of all, Clever Jacks is free and ad-free. Dive into strategic fun with Clever Jacks now!
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Indefinite Time
+    description                           : You can take indefinite time to make your turn.!
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
