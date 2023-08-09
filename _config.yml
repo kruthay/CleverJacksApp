@@ -60,7 +60,10 @@ features                                  :
     description                           : Experience the unique abilities of the Jacks – One-Eyed Jacks eliminate opponent coins, while Two-Eyed Jacks add coins.
     fontawesome_icon_name                 : star
 
-
+ - title                                 : Chat
+    description                           : Chat with your friends during the game. 
+    fontawesome_icon_name                 : comments
+    
   - title                                 : Free
     description                           : Best of all, Clever Jacks is free and ad-free. Dive into strategic fun with Clever Jacks now!
     fontawesome_icon_name                 : heart
